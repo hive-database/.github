@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="99px" alt="Hive DB brand logo" src="https://raw.githubusercontent.com/hive-database/.github/refs/heads/main/media/hive-brand-blue.png">
+    <img width="99px" alt="Hive DB brand logo" src="https://raw.githubusercontent.com/hive-database/.github/refs/heads/main/media/hive-db-icon-orange.png">
     <br><strong>Hive DB</strong><br>
     <sub><sup><sub>HIGH-PERFORMANCE DATABASE TECHNOLOGY</sup></sub></sub>
 </h1>
