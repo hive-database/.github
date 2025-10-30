@@ -165,10 +165,10 @@ This document was developed by **Hive DB Inc**. and was inspired by the professi
 <hr>
 
 ## 6. Acceptance
-
-
-
 By participating in **Hive DB Inc**. projects and communities, all **Participants** acknowledge that they have read, understood, and agreed to abide by this **Code of Conduct**.
+
+If you do not agree to these terms, please discontinue your participation in all **Hive DB Inc**. projects and communities immediately.
+
 
 
 <!-- ⬢⬢⬢⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬢⬢⬢ -->
@@ -176,7 +176,11 @@ By participating in **Hive DB Inc**. projects and communities, all **Participant
     <br><br>
     <h2>⚖️</h2>
     <sup>
+        Copyright &copy; 2025 Hive DB Inc. All rights reserved.
+    </sup>
+    <br>
+    <sup>
         <b>1.0.0</b><br>
-        <sub>OCT-30-2025</sub>
+        <sup>OCT-30-2025</sup>
     </sup>
 </div>
