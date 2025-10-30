@@ -170,7 +170,6 @@ By participating in **Hive DB Inc**. projects and communities, all **Participant
 If you do not agree to these terms, please discontinue your participation in all **Hive DB Inc**. projects and communities immediately.
 
 
-
 <!-- ⬢⬢⬢⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬡⬢⬢⬢ -->
 <div  align="center">
     <br><br>
